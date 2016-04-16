@@ -11,6 +11,6 @@ list = [['.', '.', '.', '.', '.', '.'],
 
 for i in range(len(list[0])):
     for j in range(len(list)):
-        print (list[j][i],end="")
+        print (list[j][i],end="123")
     print ()
 
